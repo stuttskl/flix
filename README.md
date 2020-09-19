@@ -1,6 +1,6 @@
-# Flix
+# Flix 🎥
 
-## Flix Part 1
+## Part 1
 
 ### User Stories
 
@@ -21,7 +21,7 @@ The most challenging part of this exercise is getting comfortable with using Xco
 
 --
 
-## Flix Part 2
+## Part 2
 
 ### User Stories
 
