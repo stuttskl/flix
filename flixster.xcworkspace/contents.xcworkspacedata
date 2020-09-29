@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:MovieGridViewController.swift">
+   </FileRef>
+   <FileRef
       location = "group:flixster.xcodeproj">
    </FileRef>
    <FileRef
